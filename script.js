@@ -3,22 +3,19 @@ const produtos = [
     nome: "produto 1",
     categoria: "Decoração",
     preco: "45.00",
-    imagem:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeXsb1sHP2j5f-D67vgODMsF-JCzUp-c-ODA&s",
+    imagem: "https://iili.io/2CBy9JR.png",
   },
   {
     nome: "produto 2",
     categoria: "Cama, Mesa e Banho",
     preco: "50.00",
-    imagem:
-      "https://www.iquine.com.br/uploads/Sela_e_Pinta_3_6_L_bd47239392.png",
+    imagem: "https://iili.io/2CBy9JR.png",
   },
   {
     nome: "Produto 3",
     categoria: "Perfumaria",
     preco: "100.00",
-    imagem:
-      "https://www.iquine.com.br/uploads/Limpa_Facil_3_6l_copiar_8491734d7a.png",
+    imagem: "https://iili.io/2CBy9JR.png",
   },
   // Continue com os produtos restantes...
 ];
