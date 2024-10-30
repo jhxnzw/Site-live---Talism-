@@ -17,6 +17,97 @@ const produtos = [
     preco: "100.00",
     imagem: "https://iili.io/2CBy9JR.png",
   },
+  {
+    nome: "produto 1",
+    categoria: "Decoração",
+    preco: "45.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 2",
+    categoria: "Cama, Mesa e Banho",
+    preco: "50.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "Produto 3",
+    categoria: "Perfumaria",
+    preco: "100.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 1",
+    categoria: "Decoração",
+    preco: "45.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 2",
+    categoria: "Cama, Mesa e Banho",
+    preco: "50.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "Produto 3",
+    categoria: "Perfumaria",
+    preco: "100.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 1",
+    categoria: "Decoração",
+    preco: "45.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 2",
+    categoria: "Cama, Mesa e Banho",
+    preco: "50.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "Produto 3",
+    categoria: "Perfumaria",
+    preco: "100.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 1",
+    categoria: "Decoração",
+    preco: "45.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 2",
+    categoria: "Cama, Mesa e Banho",
+    preco: "50.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "Produto 3",
+    categoria: "Perfumaria",
+    preco: "100.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 1",
+    categoria: "Decoração",
+    preco: "45.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "produto 2",
+    categoria: "Cama, Mesa e Banho",
+    preco: "50.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+  {
+    nome: "Produto 3",
+    categoria: "Perfumaria",
+    preco: "100.00",
+    imagem: "https://iili.io/2CBy9JR.png",
+  },
+
   // Continue com os produtos restantes...
 ];
 
