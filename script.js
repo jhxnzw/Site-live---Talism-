@@ -310,7 +310,7 @@ function checkout() {
     return;
   }
 
-  if (total > 10) {
+  if (total > 0) {
     let message =
       `Nome do Cliente: ${clientName}\n` +
       `Telefone: ${clientPhone}\n\n` +
@@ -331,7 +331,7 @@ function checkout() {
     window.open(whatsappLink, "_blank");
   } else {
     alert(
-      "O total da compra deve ser acima de R$ 10,00 para finalizar a compra."
+      "Um produto deve ser adicionado para finalizar a compra."
     );
   }
 }
